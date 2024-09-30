@@ -7,16 +7,62 @@ body {
     color: brown;
 }
 
-button {
-    box-shadow: 10px 10px 10px grey;
+
+#signupbtn:hover {
+    box-shadow: 20px 20px 20px grey;
+    width: 200px;
+    height: 80px;
+}
+
+#loginbtn:hover {
+    box-shadow: 20px 20px 20px grey;
+    width: 200px;
+    height: 80px;
+}
+
+a {
+    text-decoration: none;
 }
 
 #mainh1 {
     text-decoration: underline;
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 7px 2px 2px white;
+    font-size: 50px;
 }
 
 .btn {
     background: linear-gradient(darkseagreen, pink, brown);
-  
+
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: brown;
+    width: 100%;
+    color: antiquewhite;
+
+}
+
+.footerdiv {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#btn1 {
+    position: relative;
+    right: 200px;
+}
+
+#btn2 {
+    position: relative;
+    left: 200px;
+}
+
+.btn:hover {
+    box-shadow: 20px 20px 20px grey;
+    width: 300px;
+    height: 300px;
 }
