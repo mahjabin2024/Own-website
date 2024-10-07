@@ -1,0 +1,14 @@
+*{
+    color: brown;
+}
+div::first-letter{
+    font-size: 70px;
+ 
+}
+div{
+    font-size: 30px;
+}
+h1{
+    padding-top: 10px;
+    font-size: 50px;
+}

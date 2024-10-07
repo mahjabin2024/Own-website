@@ -1,0 +1,41 @@
+#login{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+  position: relative;
+  left: 480px;
+  top: 80px;
+  color: black;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+h2{
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: brown;
+    color: antiquewhite
+    ;
+    width: 100%;
+}
+.labelpos{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 30px;
+}
+#login1{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#Signup{
+    width: 100px;
+}
