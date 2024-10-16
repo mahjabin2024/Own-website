@@ -1,14 +1,37 @@
-*{
+* {
     color: brown;
 }
-div::first-letter{
-    font-size: 70px;
- 
+
+#story::first-letter {
+    font-size: 60px;
+
 }
-div{
-    font-size: 30px;
+
+#story{
+    font-size: 20px;
 }
-h1{
+
+h1 {
     padding-top: 10px;
     font-size: 50px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+   
+
+}
+div{
+    font-size: 20px;
+}
+
+.footerdiv {
+    background-color: brown;
+    color: antiquewhite;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }

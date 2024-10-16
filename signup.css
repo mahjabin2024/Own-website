@@ -4,8 +4,8 @@
     left: 480px;
     top: 50px;
     background-color: white;
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 400px;
     color: black;
 }
 footer{
@@ -34,4 +34,8 @@ h2{
 height: 40px;
 border-radius: 5px;
 font-size: 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
 }
