@@ -1,7 +1,9 @@
 * {
     color: brown;
 }
-
+h1{
+    color: brown;
+}
 #story::first-letter {
     font-size: 60px;
 
