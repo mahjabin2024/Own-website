@@ -1,3 +1,10 @@
+body{
+    color: brown;
+    background-color: antiquewhite;
+}
+nav{
+    color: white;
+}
 #login{
     background-color: white;
     width: 350px;
@@ -20,9 +27,9 @@ footer{
     position: fixed;
     bottom: 0px;
     background-color: brown;
-    color: antiquewhite
-    ;
+    color: antiquewhite;
     width: 100%;
+    font-size: 17px;
 }
 .labelpos{
     font-size: 20px;

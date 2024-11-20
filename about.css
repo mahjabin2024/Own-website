@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: brown;
+    width: 100%;
+    color: antiquewhite;
+
+}
+
+.footerdiv {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

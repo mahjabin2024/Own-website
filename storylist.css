@@ -1,3 +1,6 @@
+nav{
+    color: white;
+}
 footer {
     background-color: brown;
     color: antiquewhite;
@@ -5,11 +8,11 @@ footer {
     bottom: 0px;
     width: 100%;
     height: 30px;
-    font-size: 20px;
+    font-size: 15px;
 }
 a{
     text-decoration: none;
-    font-size:20px;
+    font-size:17px;
 }
 a:hover{
     font-size:30px ;
