@@ -19,3 +19,6 @@ a:hover{
     text-decoration: underline;
     text-shadow: 1px 5px 5px grey;
 }
+.card:hover{
+    box-shadow: 10px 10px 10px black;
+}
